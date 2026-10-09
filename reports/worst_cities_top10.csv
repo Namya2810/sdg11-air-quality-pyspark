@@ -1,0 +1,11 @@
+city_rank,city,state,stations,avg_aqi
+1,Sri Ganganagar,Rajasthan,1,419.0
+2,Hanumangarh,Rajasthan,1,394.0
+3,Sonipat,Haryana,1,367.0
+4,Bahadurgarh,Haryana,1,359.0
+5,Fatehabad,Haryana,1,344.0
+6,Delhi,Delhi,38,343.2
+7,Tonk,Rajasthan,1,342.0
+8,Bikaner,Rajasthan,1,336.0
+9,Sirsa,Haryana,1,334.0
+10,Faridabad,Haryana,4,330.8

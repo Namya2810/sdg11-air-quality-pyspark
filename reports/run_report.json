@@ -1,0 +1,26 @@
+{
+  "run_at_utc": "2026-10-09 17:21:08",
+  "spark_version": "3.5.9",
+  "input_files": [
+    "data_aqi_cpcb_2023-11-20.xml"
+  ],
+  "data_quality": {
+    "rows_in": 3285,
+    "rows_clean": 3065,
+    "rows_rejected": 220,
+    "reject_rate_pct": 6.7,
+    "rejected_by_rule": {
+      "missing_average": 220
+    }
+  },
+  "stations_with_readings": 479,
+  "stations_with_valid_aqi": 454,
+  "stage_seconds": {
+    "extract": 2.25,
+    "validate": 21.3,
+    "transform": 2.42,
+    "load": 37.11,
+    "report": 4.62
+  },
+  "total_seconds": 67.7
+}

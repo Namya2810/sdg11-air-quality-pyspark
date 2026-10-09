@@ -1,0 +1,27 @@
+state,stations,avg_aqi,max_aqi,pct_poor_or_worse
+Delhi,38,343.2,416.0,100.0
+Haryana,30,251.2,367.0,73.3
+Rajasthan,40,242.1,419.0,72.5
+Punjab,8,218.5,278.0,62.5
+Uttar Pradesh,52,190.6,362.0,42.3
+Bihar,29,183.2,310.0,41.4
+Madhya Pradesh,23,173.2,287.0,34.8
+Gujarat,17,133.5,227.0,5.9
+Chandigarh,3,128.7,134.0,0.0
+Maharashtra,75,126.5,240.0,5.3
+Assam,9,112.6,273.0,11.1
+Himachal Pradesh,1,110.0,110.0,0.0
+Tripura,1,104.0,104.0,0.0
+Odisha,17,100.7,162.0,0.0
+West Bengal,14,95.5,170.0,0.0
+Uttarakhand,3,75.7,93.0,0.0
+Manipur,1,75.0,75.0,0.0
+Telangana,10,73.5,117.0,0.0
+Chhattisgarh,10,66.0,104.0,0.0
+Kerala,6,62.7,94.0,0.0
+Sikkim,1,58.0,58.0,0.0
+Karnataka,37,57.6,106.0,0.0
+Meghalaya,2,56.0,92.0,0.0
+TamilNadu,16,51.7,121.0,0.0
+Andhra Pradesh,10,48.1,74.0,0.0
+Puducherry,1,32.0,32.0,0.0
