@@ -64,3 +64,7 @@ python -m pytest -q               # 6 tests
   so treat the numbers as indicative.
 - SDG indicator 11.6.2 is the annual mean PM2.5 in cities; this project does not compute it.
 - On Windows the curated layer is written with PyArrow instead of Spark's writer (which needs Hadoop's winutils); see `src/spark_session.py`.
+
+## Source data
+
+`source_data/` keeps the original data.gov.in download (feed XML plus the catalog metadata CSV) for provenance. The pipeline reads the copy in `data/raw/`.
